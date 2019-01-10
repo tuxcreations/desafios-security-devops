@@ -1,14 +1,8 @@
 # Desafios IDwall
 
-Aqui estão os desafios para a primeira fase de testes de candidatos da IDwall para às vagas de **Security Engineer - Infrastructure**.
-
-1. [Terraform/IaC](https://github.com/idwall/desafios-devsecops/tree/master/terraform)
-2. [Kubernetes](https://github.com/idwall/desafios-devsecops/tree/master/kubernetes)
+Aqui está o desafio aos candidatos da IDwall para as vagas de **Security Engineer - Infrastructure**.
 
 Não há diferença de testes para diferentes níveis de profissionais, porém ambos os testes serão avaliados com diferentes critérios, dependendo do perfil da vaga.
-
-Vale reforçar, que a solução deve contemplar os testes de **Terraform/IaC** e **Kubernetes**.
-
 
 ## Como entregar estes desafios
 Você deve realizar o _**fork**_ este projeto e fazer o **_push_** no seu próprio repositório e enviar o link como resposta ao recrutador que lhe enviou o teste, junto com seu LinkedIn atualizado.
