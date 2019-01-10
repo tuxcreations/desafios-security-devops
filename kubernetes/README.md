@@ -6,7 +6,7 @@ Na IDWall todos nossos serviços são containerizados e distribuídos em _cluste
 
 ## Objetivo
 
-Este desafio consiste em criar um cluster kubernetes contendo a [aplicação demo](https://github.com/idwall/desafios-devsecops/tree/master/kubernetes/app) e um banco de dados.
+Este desafio consiste em criar um cluster kubernetes contendo a [aplicação demo](https://github.com/idwall/desafios-security-devops/tree/master/kubernetes/app) e um banco de dados.
 
 ### Aplicação Web
 Dentro deste repositório existe um subdiretório **app** e um **Dockerfile** que constrói essa imagem, seu objetivo é:

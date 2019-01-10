@@ -4,6 +4,8 @@ Aqui está o desafio aos candidatos da IDwall para as vagas de **Security Engine
 
 Não há diferença de testes para diferentes níveis de profissionais, porém ambos os testes serão avaliados com diferentes critérios, dependendo do perfil da vaga.
 
+1. [Desafio Kubernetes](https://github.com/idwall/desafios-security-devops/tree/master/kubernetes)
+
 ## Como entregar estes desafios
 Você deve realizar o _**fork**_ este projeto e fazer o **_push_** no seu próprio repositório e enviar o link como resposta ao recrutador que lhe enviou o teste, junto com seu LinkedIn atualizado.
 
