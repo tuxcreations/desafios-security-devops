@@ -21,6 +21,7 @@ Dentro deste repositório há um subdiretório **app** contendo um **Dockerfile*
 A aplicação utiliza um banco de dados MongoDB. É recomendável utilizar o [container padrão do MongoDB](https://hub.docker.com/_/mongo).
 Neste container, você deverá:
 - Criar as regras e permissões de acesso que considera importantes para um banco de dados de uma aplicaçao
+- Instalar um certificado SSL na aplicação
 
 ### Cluster
 - Criar um _script_ para a execução do _deploy_ da aplicação e banco em uma única execução.
@@ -30,8 +31,7 @@ Neste container, você deverá:
 - Melhorias no Dockerfile da aplicação Web
 - Utilização de _health check_ na aplicação
 - Utilizar algum gerenciador de Cache, como `Redis`, por exemplo
-- Instalação de um certificado SSL na aplicação
-- Plugar algum agregador de logs
+- Utilizar algum agregador de logs, como o [Loggly](https://www.loggly.com/), por exemplo
 
 ## Notas
 
