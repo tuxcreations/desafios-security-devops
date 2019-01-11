@@ -13,6 +13,8 @@ Dentro deste repositório há um subdiretório **app** contendo um **Dockerfile*
 - Construir a imagem docker da aplicação
 - Criar os manifestos de recursos kubernetes para rodar a aplicação (_deployments, services, ingresses, configmap_ e qualquer outro que você considere necessário)
 - Criar as regras e permissões que você considera importantes para uma aplicação web exposta na internet
+- Instalar um certificado SSL na aplicação
+
 #### Observações
 - A aplicação deve responder à uma URL específica configurada no _ingress_
 - A aplicação irá acessar o banco através do host _mongo_ (sinta-se à vontade para alterar, caso deseje)
@@ -21,7 +23,6 @@ Dentro deste repositório há um subdiretório **app** contendo um **Dockerfile*
 A aplicação utiliza um banco de dados MongoDB. É recomendável utilizar o [container padrão do MongoDB](https://hub.docker.com/_/mongo).
 Neste container, você deverá:
 - Criar as regras e permissões de acesso que considera importantes para um banco de dados de uma aplicaçao
-- Instalar um certificado SSL na aplicação
 
 ### Cluster
 - Criar um _script_ para a execução do _deploy_ da aplicação e banco em uma única execução.
