@@ -21,7 +21,7 @@ Dentro deste repositório há um subdiretório **app** contendo um **Dockerfile*
 
 ### Banco de Dados
 A aplicação utiliza um banco de dados MongoDB. É recomendável utilizar o [container padrão do MongoDB](https://hub.docker.com/_/mongo).
-Neste container, você deverá:
+Para este container, você deverá:
 - Criar as regras e permissões de acesso que considera importantes para um banco de dados de uma aplicaçao
 
 ### Cluster
