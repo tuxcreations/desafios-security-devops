@@ -33,6 +33,7 @@ Para este container, você deverá:
 - Utilização de _health check_ na aplicação
 - Utilizar algum gerenciador de Cache, como `Redis`, por exemplo
 - Utilizar algum agregador de logs, como o [Loggly](https://www.loggly.com/), por exemplo
+- Relatório de segurança da aplicação
 
 ## Notas
 
