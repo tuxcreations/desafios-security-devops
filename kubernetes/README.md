@@ -1,9 +1,3 @@
-## Motivação
-
-Kubernetes atualmente é a principal ferramenta de orquestração e _deployment_ de _containers_ utilizado no mundo, praticamente tornando-se um padrão para abstração de recursos de infraestrutura. 
-
-Na IDWall, todos nossos serviços são containerizados e distribuídos em _clusters_ para cada ambiente. Sendo assim é, importante que as aplicações sejam adaptáveis para cada ambiente e haja controle via código dos recursos kubernetes através de seus manifestos. 
-
 ## Objetivo
 
 Este desafio consiste em criar um cluster kubernetes contendo a [aplicação demo](https://github.com/idwall/desafios-security-devops/tree/master/kubernetes/app) e um banco de dados.
